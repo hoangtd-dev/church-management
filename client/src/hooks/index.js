@@ -1,1 +1,1 @@
-export { useAppConfig } from "./useAppConfig.js";
+export { useAppConfig } from './useAppConfig.js';

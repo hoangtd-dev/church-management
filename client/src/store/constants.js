@@ -1,2 +1,2 @@
-const CHANGE_THEME = "change_theme";
+const CHANGE_THEME = 'change_theme';
 export { CHANGE_THEME };

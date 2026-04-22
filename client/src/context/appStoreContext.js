@@ -1,5 +1,5 @@
-import { createContext } from "react";
-import { initialAppConfig } from "../store";
+import { createContext } from 'react';
+import { initialAppConfig } from '../store';
 
 const StoreContext = createContext(initialAppConfig);
 
